@@ -71,3 +71,9 @@ To install the nodemon dev dependency do:
 To configure nodemon as the startup script, edit the package.json file and under the "scripts" section, delete any existing script definitions and add:
 
     "devStart": "nodemon server.js"
+
+## Accessing the Blog
+
+Navigate in your browser to:
+
+    http://localhost:4000
