@@ -30,7 +30,7 @@ This is taken from the "Web Dev Simplified - How to Build A Markdown Blog Using 
 
 ### Node.js
 
-To install node.js, it is best to use the 
+To install node.js, it is best to use the Node Version Manager. The version installed with Ubuntu 20.04 are too old and throw many, many errors when installing npm modules:
 
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
