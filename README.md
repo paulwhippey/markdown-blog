@@ -28,6 +28,8 @@ This is taken from the "Web Dev Simplified - How to Build A Markdown Blog Using 
 
 ## Installation
 
+### Node.js
+
 To install node.js, it is best to use the 
 
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
@@ -35,6 +37,8 @@ To install node.js, it is best to use the
     source ~/.bashrc
 
     nvm install v18.12.1
+
+### MongoDB
 
 To install MongoDB do:
 
@@ -50,6 +54,8 @@ To install MongoDB do:
     sudo systemctl enable mongod
 
     sudo systemctl start mongod
+
+### Setting Up The Environment
 
 Create the directory we wish to use for the blog:
 
