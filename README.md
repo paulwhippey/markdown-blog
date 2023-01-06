@@ -78,6 +78,12 @@ To configure nodemon as the startup script, edit the package.json file and under
 
     "devStart": "nodemon server.js"
 
+## Server startup
+
+To start the node.js server, do:
+
+    npm run devStart
+
 ## Accessing the Blog
 
 Navigate in your browser to:
